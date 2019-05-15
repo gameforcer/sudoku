@@ -1,0 +1,78 @@
+body
+{
+-webkit-touch-callout: none;
+-webkit-user-select: none;
+-khtml-user-select: none;
+-moz-user-select: none;
+-ms-user-select: none;
+user-select: none;
+}
+
+
+#masterDiv
+{
+margin: auto;
+padding:0.8em;
+padding-bottom:0.5em;
+border: 1px solid black;
+border-radius: 1em;
+display:table;
+}
+
+
+.row
+{
+margin-bottom:0.3em;
+}
+
+
+.H_spacing_fix
+{
+margin-left:-0.5em;
+}
+
+
+.V_spacing
+{
+margin-top:0.7em;
+}
+
+
+.H_spacing
+{
+display:inline-block;
+margin-left:0.5em;
+}
+
+
+#headline
+{
+text-align: center;
+font-size: 5em;
+margin-top: 0.2em;
+margin-bottom: 0.3em;
+}
+
+
+input
+{
+width: 2em;
+height: 2em;
+text-align: center;
+font-size: 1em;
+}
+
+
+.Button
+{
+	width:auto;
+}
+
+
+.cell
+{
+color:black;
+background-color:white;
+border: 2px double gray;
+border-radius:3px;
+}
